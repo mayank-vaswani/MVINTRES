@@ -1,0 +1,12 @@
+#Tutorial and Details
+
+For using the following tool 
+
+1. Install the tool in your local machine
+2. Configure the tool as your needs 
+3. provide execution privileges and administration rights 
+
+4. run the script as a bat file in the linux baised environment 
+
+5. after analysis and overview you may eradicate the malwaric process with SUDO KILL command (optional)
+
