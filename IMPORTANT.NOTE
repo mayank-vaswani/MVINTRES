@@ -1,0 +1,10 @@
+Points to Note
+
+The script is only excutable and usefull in linux baised environments with proper configuration 
+
+The following script uses containment practice via shutdown of interfaces@linux
+
+The commands only provide and help detection of file descriptor or subprocess baised Malware. It cannot help in inbuit vulnerability or service hijack baised Malware and attacks 
+
+
+This is just a demonstration script and has likely low impact is mass scaled incident response, but is a quite useful kn basic functionality and provides ideas on REAL world incidents and responses
