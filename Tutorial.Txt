@@ -6,7 +6,7 @@ For using the following tool
 2. Configure the tool as your needs 
 3. provide execution privileges and administration rights 
 
-4. run the script as a bat file in the linux baised environment 
+4. run the script as a bat file in the linux baised environment. Kindly run as a superuser or admin account for well functioning 
 
 5. after analysis and overview you may eradicate the malwaric process with SUDO KILL command (optional)
 
