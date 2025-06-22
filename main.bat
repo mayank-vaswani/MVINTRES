@@ -1,4 +1,4 @@
-echo "shuting down connection"
+echo "shutting down connection"
 sudo ip link set down $(ifconfig |grep -o '^[^ ]\+'| tr -d ':'| tr -d 'lo')
 
 echo "processes"
